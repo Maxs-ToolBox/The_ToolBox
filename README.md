@@ -2,7 +2,7 @@
 
 ## Description
 
-A full-stack application with a React frontend and Python Flask backend, designed to help users manage and analyze company data. The application includes various calculators and work tools to improve productivity.
+A full-stack application with a React frontend and Python Flask backend, designed to collate all of the small projects I've made into one place. The application includes various calculators and work tools to improve productivity.
 
 ## Quick Setup (Windows)
 
