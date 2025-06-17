@@ -1,8 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import "./styles/components.css";
-import "./styles/layouts.css";
-import "./styles/utilities.css";
+import "./App.css";
 import HomeLayout from "./layouts/HomeLayout";
 import CalculatorLayout from "./layouts/CalculatorLayout";
 import WorkToolsLayout from "./layouts/WorkToolsLayout";
